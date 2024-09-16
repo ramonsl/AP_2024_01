@@ -12,4 +12,6 @@ elif numero_01>numero_02:
     print (f"O numero maior é {numero_01}")
 else:
     print (f"O numero maior é {numero_02}")
- 
+
+print("Usando a funcao max")
+print (max(numero_01, numero_02))

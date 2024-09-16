@@ -1,0 +1,2 @@
+elif:
+    print("Numeros iguais")
