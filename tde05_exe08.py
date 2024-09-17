@@ -9,7 +9,7 @@ elif numero_02>= numero_01 and numero_02>=numero_03:
 else:
     print(f"o maior numero é {numero_03}")
 
-
+'''forma da simone'''
 
 if numero_01>= numero_02 and numero_01>=numero_03:
     maior=numero_01
