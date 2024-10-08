@@ -1,2 +1,1 @@
-elif:
-    print("Numeros iguais")
+==
